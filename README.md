@@ -23,13 +23,23 @@
 ## 📸 Screenshots
 
 ### Server Running
-![Server Interface](https://via.placeholder.com/600x400?text=Server+Running)
+Server started successfully on port 5000:
+
+![Server Interface](https://raw.githubusercontent.com/mindsilentkv/java-chat-application/main/screenshots/server-running.png)
+
+---
 
 ### Client Interface
-![Client Interface](https://via.placeholder.com/600x400?text=Chat+Client)
+Beautiful gradient UI with connection features:
+
+![Client Interface](https://raw.githubusercontent.com/mindsilentkv/java-chat-application/main/screenshots/client-interface.png)
+
+---
 
 ### Multiple Users Chatting
-![Chat Demo](https://via.placeholder.com/600x400?text=Multi+User+Chat)
+Real-time chat in action:
+
+![Chat Demo](https://raw.githubusercontent.com/mindsilentkv/java-chat-application/main/screenshots/chat-demo.png)
 
 ---
 
