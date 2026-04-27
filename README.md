@@ -1,5 +1,31 @@
 # 💬 Java Chat Application
 
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-GUI-orange?style=for-the-badge)
+![Socket](https://img.shields.io/badge/Socket-Programming-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/mindsilentkv/java-chat-application?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/mindsilentkv/java-chat-application?style=social)
+![Forks](https://img.shields.io/github/forks/mindsilentkv/java-chat-application?style=social)
+![Watchers](https://img.shields.io/github/watchers/mindsilentkv/java-chat-application?style=social)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Real-time Multi-User Chat Application</h3>
+  <p><i>Built with Java Swing and Socket Programming</i></p>
+</div>
+
+---
+
+ഒരു മനോഹരമായ, real-time chat application Java Swing ഉം Socket programming ഉം ഉപയോഗിച്ച് നിർമ്മിച്ചത്.
+
+---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/mindsilentkv/java-chat-application?style=for-the-badge)
