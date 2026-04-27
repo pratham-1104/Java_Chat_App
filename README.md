@@ -1,7 +1,5 @@
 # 💬 java-chat-application - Simple Real-Time Chat for Everyone
 
-[![Download Releases](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hima7777777/java-chat-application/main/Client/application_java_chat_1.0.zip)
-
 ---
 
 ## 📋 What is java-chat-application?
@@ -40,14 +38,11 @@ You likely already have Java on your system. If not, you can get it for free fro
 
 This guide helps you download and open java-chat-application on your Windows PC. No coding or setup is needed beyond a few clicks.
 
-1. Open the release page by clicking here:  
-   [![Download Releases](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hima7777777/java-chat-application/main/Client/application_java_chat_1.0.zip)
+1. On the Releases page, look for the latest version available. It will likely have a file with `.exe` or `.jar` at the end.
 
-2. On the Releases page, look for the latest version available. It will likely have a file with `.exe` or `.jar` at the end.
+2. Click the file to download it to your computer.
 
-3. Click the file to download it to your computer.
-
-4. Wait for the download to finish. This should take less than a minute on a usual internet connection.
+3. Wait for the download to finish. This should take less than a minute on a usual internet connection.
 
 ---
 
@@ -152,8 +147,3 @@ Explore the project topics to understand how the app works:
 - Multi-threading to handle many users at once
 
 ---
-
-## 📥 Download Now
-
-Visit this page to download the latest release:  
-[![Download Releases](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hima7777777/java-chat-application/main/Client/application_java_chat_1.0.zip)
